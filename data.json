@@ -1,0 +1,12 @@
+{
+    "The Shawshank Redemption": { "rating": 9.5, "year": 1994, "poster": "https://example.com/shawshank.jpg" },
+    "Pulp Fiction": { "rating": 8.8, "year": 1994, "poster": "https://example.com/pulpfiction.jpg" },
+    "The Room": { "rating": 3.6, "year": 2003, "poster": "https://example.com/theroom.jpg" },
+    "The Godfather": { "rating": 9.2, "year": 1972, "poster": "https://example.com/godfather.jpg" },
+    "The Godfather: Part II": { "rating": 9.0, "year": 1974, "poster": "https://example.com/godfather2.jpg" },
+    "The Dark Knight": { "rating": 9.0, "year": 2008, "poster": "https://example.com/darkknight.jpg" },
+    "12 Angry Men": { "rating": 8.9, "year": 1957, "poster": "https://example.com/12angrymen.jpg" },
+    "Everything Everywhere All At Once": { "rating": 8.9, "year": 2022, "poster": "https://example.com/everything.jpg" },
+    "Forrest Gump": { "rating": 8.8, "year": 1994, "poster": "https://example.com/forrestgump.jpg" },
+    "Star Wars: Episode V": { "rating": 8.7, "year": 1980, "poster": "https://example.com/starwars5.jpg" }
+}

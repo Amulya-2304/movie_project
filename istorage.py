@@ -1,19 +1,24 @@
 from abc import ABC, abstractmethod
 
 class IStorage(ABC):
-    """Interface for movie storage classes."""
+    pass
 
     @abstractmethod
     def list_movies(self):
-        """Returns a dictionary containing movie data."""
         pass
 
     @abstractmethod
-    def add_movie(self, title, year, rating, poster_url):
-        """Adds a movie to storage."""
+    def update_movie(self, title, rating):
         pass
 
     @abstractmethod
     def delete_movie(self, title):
-        """Deletes a movie from storage."""
+        pass
+
+    @abstractmethod
+    def add_movie(self, title, year, rating, poster):
+        pass
+
+    @abstractmethod
+    def get_movies(self):
         pass

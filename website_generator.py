@@ -41,4 +41,4 @@ def generate_website(storage, template_path, output_path):
 from storage.storage_json import StorageJson
 
 storage = StorageJson('.venv/static/data/movies.json')  # Replace with your storage
-generate_website(storage, 'static/index.html', 'static/index.html')
+generate_website(storage, 'index.html', 'index.html')
